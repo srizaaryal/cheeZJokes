@@ -1,2 +1,5 @@
-# cheeZJokes
-Created with CodeSandbox
+### Initialization
+
+```
+npm install && npm start
+```
